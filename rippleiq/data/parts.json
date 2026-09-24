@@ -1,0 +1,226 @@
+[
+  {
+    "part_id": "P01",
+    "name": "Motion control MCU",
+    "primary_supplier": "S01",
+    "qualified_alternates": [
+      "S11"
+    ],
+    "unit_cost_usd": 18.5,
+    "on_hand_units": 298,
+    "lead_time_days": 42,
+    "daily_usage_units": 16.57,
+    "days_of_cover": 18.0
+  },
+  {
+    "part_id": "P02",
+    "name": "Motor driver IC",
+    "primary_supplier": "S01",
+    "qualified_alternates": [
+      "S11"
+    ],
+    "unit_cost_usd": 6.2,
+    "on_hand_units": 795,
+    "lead_time_days": 42,
+    "daily_usage_units": 33.14,
+    "days_of_cover": 24.0
+  },
+  {
+    "part_id": "P03",
+    "name": "Harmonic reducer",
+    "primary_supplier": "S02",
+    "qualified_alternates": [
+      "S14"
+    ],
+    "unit_cost_usd": 410.0,
+    "on_hand_units": 144,
+    "lead_time_days": 56,
+    "daily_usage_units": 12.0,
+    "days_of_cover": 12.0
+  },
+  {
+    "part_id": "P04",
+    "name": "Depth camera module",
+    "primary_supplier": "S03",
+    "qualified_alternates": [],
+    "unit_cost_usd": 145.0,
+    "on_hand_units": 50,
+    "lead_time_days": 35,
+    "daily_usage_units": 3.14,
+    "days_of_cover": 15.9
+  },
+  {
+    "part_id": "P05",
+    "name": "Servo motor 400W",
+    "primary_supplier": "S04",
+    "qualified_alternates": [
+      "S12"
+    ],
+    "unit_cost_usd": 220.0,
+    "on_hand_units": 240,
+    "lead_time_days": 21,
+    "daily_usage_units": 12.0,
+    "days_of_cover": 20.0
+  },
+  {
+    "part_id": "P06",
+    "name": "Aluminium capacitor bank",
+    "primary_supplier": "S05",
+    "qualified_alternates": [
+      "S13"
+    ],
+    "unit_cost_usd": 9.8,
+    "on_hand_units": 806,
+    "lead_time_days": 28,
+    "daily_usage_units": 26.86,
+    "days_of_cover": 30.0
+  },
+  {
+    "part_id": "P07",
+    "name": "Force/torque sensor",
+    "primary_supplier": "S06",
+    "qualified_alternates": [],
+    "unit_cost_usd": 380.0,
+    "on_hand_units": 28,
+    "lead_time_days": 45,
+    "daily_usage_units": 2.0,
+    "days_of_cover": 14.0
+  },
+  {
+    "part_id": "P08",
+    "name": "Li-ion battery pack 48V",
+    "primary_supplier": "S07",
+    "qualified_alternates": [
+      "S19"
+    ],
+    "unit_cost_usd": 690.0,
+    "on_hand_units": 21,
+    "lead_time_days": 30,
+    "daily_usage_units": 0.86,
+    "days_of_cover": 24.5
+  },
+  {
+    "part_id": "P09",
+    "name": "Cable harness set",
+    "primary_supplier": "S08",
+    "qualified_alternates": [
+      "S13"
+    ],
+    "unit_cost_usd": 34.0,
+    "on_hand_units": 150,
+    "lead_time_days": 25,
+    "daily_usage_units": 4.29,
+    "days_of_cover": 35.0
+  },
+  {
+    "part_id": "P10",
+    "name": "Cast aluminium arm link",
+    "primary_supplier": "S09",
+    "qualified_alternates": [
+      "S15"
+    ],
+    "unit_cost_usd": 95.0,
+    "on_hand_units": 264,
+    "lead_time_days": 35,
+    "daily_usage_units": 12.0,
+    "days_of_cover": 22.0
+  },
+  {
+    "part_id": "P11",
+    "name": "NdFeB magnet set",
+    "primary_supplier": "S10",
+    "qualified_alternates": [],
+    "unit_cost_usd": 52.0,
+    "on_hand_units": 231,
+    "lead_time_days": 40,
+    "daily_usage_units": 15.43,
+    "days_of_cover": 15.0
+  },
+  {
+    "part_id": "P12",
+    "name": "Safety PLC board",
+    "primary_supplier": "S13",
+    "qualified_alternates": [
+      "S11"
+    ],
+    "unit_cost_usd": 120.0,
+    "on_hand_units": 80,
+    "lead_time_days": 30,
+    "daily_usage_units": 2.86,
+    "days_of_cover": 28.0
+  },
+  {
+    "part_id": "P13",
+    "name": "Lidar unit",
+    "primary_supplier": "S16",
+    "qualified_alternates": [],
+    "unit_cost_usd": 1250.0,
+    "on_hand_units": 34,
+    "lead_time_days": 42,
+    "daily_usage_units": 0.86,
+    "days_of_cover": 39.7
+  },
+  {
+    "part_id": "P14",
+    "name": "Drive wheel tread",
+    "primary_supplier": "S17",
+    "qualified_alternates": [
+      "S20"
+    ],
+    "unit_cost_usd": 22.0,
+    "on_hand_units": 34,
+    "lead_time_days": 30,
+    "daily_usage_units": 3.43,
+    "days_of_cover": 9.9
+  },
+  {
+    "part_id": "P15",
+    "name": "Steel chassis sheet",
+    "primary_supplier": "S18",
+    "qualified_alternates": [
+      "S15"
+    ],
+    "unit_cost_usd": 64.0,
+    "on_hand_units": 62,
+    "lead_time_days": 28,
+    "daily_usage_units": 3.43,
+    "days_of_cover": 18.1
+  },
+  {
+    "part_id": "P16",
+    "name": "Gripper finger actuator",
+    "primary_supplier": "S12",
+    "qualified_alternates": [
+      "S04"
+    ],
+    "unit_cost_usd": 75.0,
+    "on_hand_units": 149,
+    "lead_time_days": 21,
+    "daily_usage_units": 5.71,
+    "days_of_cover": 26.1
+  },
+  {
+    "part_id": "P17",
+    "name": "Encoder chip",
+    "primary_supplier": "S06",
+    "qualified_alternates": [
+      "S11"
+    ],
+    "unit_cost_usd": 11.0,
+    "on_hand_units": 531,
+    "lead_time_days": 45,
+    "daily_usage_units": 17.71,
+    "days_of_cover": 30.0
+  },
+  {
+    "part_id": "P18",
+    "name": "Vision SoC",
+    "primary_supplier": "S01",
+    "qualified_alternates": [],
+    "unit_cost_usd": 88.0,
+    "on_hand_units": 46,
+    "lead_time_days": 49,
+    "daily_usage_units": 2.29,
+    "days_of_cover": 20.1
+  }
+]

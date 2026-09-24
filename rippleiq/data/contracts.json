@@ -1,0 +1,290 @@
+{
+  "suppliers": [
+    {
+      "supplier_id": "S01",
+      "supplier": "Formosa Semicon",
+      "force_majeure_notice_days": 3,
+      "force_majeure_clause": "Formosa Semicon shall notify Helix within 3 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than pro-rata share of pre-event volume.",
+      "allocation_guarantee": "pro-rata",
+      "expedite_cost_sharing": "50/50 split on air freight",
+      "business_continuity_plan_on_file": true,
+      "backup_site": "none"
+    },
+    {
+      "supplier_id": "S02",
+      "supplier": "Taichung Precision Gear",
+      "force_majeure_notice_days": 3,
+      "force_majeure_clause": "Taichung Precision Gear shall notify Helix within 3 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than pro-rata share of pre-event volume.",
+      "allocation_guarantee": "pro-rata",
+      "expedite_cost_sharing": "50/50 split on air freight",
+      "business_continuity_plan_on_file": true,
+      "backup_site": "other country"
+    },
+    {
+      "supplier_id": "S03",
+      "supplier": "Yilan Opto",
+      "force_majeure_notice_days": 7,
+      "force_majeure_clause": "Yilan Opto shall notify Helix within 7 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than 50% of pre-event volume.",
+      "allocation_guarantee": "50% of pre-event volume",
+      "expedite_cost_sharing": "Helix pays 100%",
+      "business_continuity_plan_on_file": false,
+      "backup_site": "none"
+    },
+    {
+      "supplier_id": "S04",
+      "supplier": "Kansai Servo Works",
+      "force_majeure_notice_days": 3,
+      "force_majeure_clause": "Kansai Servo Works shall notify Helix within 3 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than pro-rata share of pre-event volume.",
+      "allocation_guarantee": "pro-rata",
+      "expedite_cost_sharing": "50/50 split on air freight",
+      "business_continuity_plan_on_file": true,
+      "backup_site": "same region"
+    },
+    {
+      "supplier_id": "S05",
+      "supplier": "Sendai Capacitor",
+      "force_majeure_notice_days": 7,
+      "force_majeure_clause": "Sendai Capacitor shall notify Helix within 7 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than 50% of pre-event volume.",
+      "allocation_guarantee": "50% of pre-event volume",
+      "expedite_cost_sharing": "Helix pays 100%",
+      "business_continuity_plan_on_file": false,
+      "backup_site": "none"
+    },
+    {
+      "supplier_id": "S06",
+      "supplier": "Kumamoto Sensor Devices",
+      "force_majeure_notice_days": 3,
+      "force_majeure_clause": "Kumamoto Sensor Devices shall notify Helix within 3 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than pro-rata share of pre-event volume.",
+      "allocation_guarantee": "pro-rata",
+      "expedite_cost_sharing": "50/50 split on air freight",
+      "business_continuity_plan_on_file": true,
+      "backup_site": "same region"
+    },
+    {
+      "supplier_id": "S07",
+      "supplier": "Busan Energy Cells",
+      "force_majeure_notice_days": 3,
+      "force_majeure_clause": "Busan Energy Cells shall notify Helix within 3 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than pro-rata share of pre-event volume.",
+      "allocation_guarantee": "pro-rata",
+      "expedite_cost_sharing": "50/50 split on air freight",
+      "business_continuity_plan_on_file": true,
+      "backup_site": "other country"
+    },
+    {
+      "supplier_id": "S08",
+      "supplier": "Shenzhen Harness Co",
+      "force_majeure_notice_days": 7,
+      "force_majeure_clause": "Shenzhen Harness Co shall notify Helix within 7 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than 50% of pre-event volume.",
+      "allocation_guarantee": "50% of pre-event volume",
+      "expedite_cost_sharing": "Helix pays 100%",
+      "business_continuity_plan_on_file": false,
+      "backup_site": "none"
+    },
+    {
+      "supplier_id": "S09",
+      "supplier": "Suzhou Castings",
+      "force_majeure_notice_days": 7,
+      "force_majeure_clause": "Suzhou Castings shall notify Helix within 7 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than 50% of pre-event volume.",
+      "allocation_guarantee": "50% of pre-event volume",
+      "expedite_cost_sharing": "Helix pays 100%",
+      "business_continuity_plan_on_file": false,
+      "backup_site": "none"
+    },
+    {
+      "supplier_id": "S10",
+      "supplier": "Chengdu Magnetics",
+      "force_majeure_notice_days": 3,
+      "force_majeure_clause": "Chengdu Magnetics shall notify Helix within 3 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than pro-rata share of pre-event volume.",
+      "allocation_guarantee": "pro-rata",
+      "expedite_cost_sharing": "50/50 split on air freight",
+      "business_continuity_plan_on_file": true,
+      "backup_site": "same region"
+    },
+    {
+      "supplier_id": "S11",
+      "supplier": "Penang Microsystems",
+      "force_majeure_notice_days": 3,
+      "force_majeure_clause": "Penang Microsystems shall notify Helix within 3 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than pro-rata share of pre-event volume.",
+      "allocation_guarantee": "pro-rata",
+      "expedite_cost_sharing": "50/50 split on air freight",
+      "business_continuity_plan_on_file": true,
+      "backup_site": "none"
+    },
+    {
+      "supplier_id": "S12",
+      "supplier": "Ayutthaya Motor Tech",
+      "force_majeure_notice_days": 7,
+      "force_majeure_clause": "Ayutthaya Motor Tech shall notify Helix within 7 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than 50% of pre-event volume.",
+      "allocation_guarantee": "50% of pre-event volume",
+      "expedite_cost_sharing": "Helix pays 100%",
+      "business_continuity_plan_on_file": false,
+      "backup_site": "none"
+    },
+    {
+      "supplier_id": "S13",
+      "supplier": "Hanoi PCB Assembly",
+      "force_majeure_notice_days": 7,
+      "force_majeure_clause": "Hanoi PCB Assembly shall notify Helix within 7 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than 50% of pre-event volume.",
+      "allocation_guarantee": "50% of pre-event volume",
+      "expedite_cost_sharing": "Helix pays 100%",
+      "business_continuity_plan_on_file": false,
+      "backup_site": "none"
+    },
+    {
+      "supplier_id": "S14",
+      "supplier": "Stuttgart Drive Systems",
+      "force_majeure_notice_days": 3,
+      "force_majeure_clause": "Stuttgart Drive Systems shall notify Helix within 3 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than pro-rata share of pre-event volume.",
+      "allocation_guarantee": "pro-rata",
+      "expedite_cost_sharing": "50/50 split on air freight",
+      "business_continuity_plan_on_file": true,
+      "backup_site": "same region"
+    },
+    {
+      "supplier_id": "S15",
+      "supplier": "Monterrey Metals",
+      "force_majeure_notice_days": 7,
+      "force_majeure_clause": "Monterrey Metals shall notify Helix within 7 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than 50% of pre-event volume.",
+      "allocation_guarantee": "50% of pre-event volume",
+      "expedite_cost_sharing": "Helix pays 100%",
+      "business_continuity_plan_on_file": false,
+      "backup_site": "none"
+    },
+    {
+      "supplier_id": "S16",
+      "supplier": "Austin Lidar Labs",
+      "force_majeure_notice_days": 3,
+      "force_majeure_clause": "Austin Lidar Labs shall notify Helix within 3 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than pro-rata share of pre-event volume.",
+      "allocation_guarantee": "pro-rata",
+      "expedite_cost_sharing": "50/50 split on air freight",
+      "business_continuity_plan_on_file": true,
+      "backup_site": "none"
+    },
+    {
+      "supplier_id": "S17",
+      "supplier": "Kochi Rubber Works",
+      "force_majeure_notice_days": 7,
+      "force_majeure_clause": "Kochi Rubber Works shall notify Helix within 7 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than 50% of pre-event volume.",
+      "allocation_guarantee": "50% of pre-event volume",
+      "expedite_cost_sharing": "Helix pays 100%",
+      "business_continuity_plan_on_file": false,
+      "backup_site": "none"
+    },
+    {
+      "supplier_id": "S18",
+      "supplier": "Banten Steel Sheet",
+      "force_majeure_notice_days": 7,
+      "force_majeure_clause": "Banten Steel Sheet shall notify Helix within 7 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than 50% of pre-event volume.",
+      "allocation_guarantee": "50% of pre-event volume",
+      "expedite_cost_sharing": "Helix pays 100%",
+      "business_continuity_plan_on_file": false,
+      "backup_site": "none"
+    },
+    {
+      "supplier_id": "S19",
+      "supplier": "Kaohsiung Cell Pack",
+      "force_majeure_notice_days": 7,
+      "force_majeure_clause": "Kaohsiung Cell Pack shall notify Helix within 7 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than 50% of pre-event volume.",
+      "allocation_guarantee": "50% of pre-event volume",
+      "expedite_cost_sharing": "Helix pays 100%",
+      "business_continuity_plan_on_file": false,
+      "backup_site": "none"
+    },
+    {
+      "supplier_id": "S20",
+      "supplier": "Chennai Polymer Parts",
+      "force_majeure_notice_days": 7,
+      "force_majeure_clause": "Chennai Polymer Parts shall notify Helix within 7 days of any force majeure event and provide a written recovery plan within 10 days. During shortage, allocation to Helix shall be no less than 50% of pre-event volume.",
+      "allocation_guarantee": "50% of pre-event volume",
+      "expedite_cost_sharing": "Helix pays 100%",
+      "business_continuity_plan_on_file": false,
+      "backup_site": "none"
+    }
+  ],
+  "customers": [
+    {
+      "customer": "Toyota Tsusho Logistics",
+      "late_delivery_penalty_pct_per_week": 2.0,
+      "penalty_cap_pct": 10,
+      "notification_required_days": 7,
+      "clause": "Late delivery incurs 2.0% of order value per week, capped at 10%. Helix must notify Toyota Tsusho Logistics at least 7 days before any expected delay; force majeure relief applies only if notice is given."
+    },
+    {
+      "customer": "Nordic Pharma Packaging",
+      "late_delivery_penalty_pct_per_week": 0.5,
+      "penalty_cap_pct": 5,
+      "notification_required_days": 3,
+      "clause": "Late delivery incurs 0.5% of order value per week, capped at 5%. Helix must notify Nordic Pharma Packaging at least 3 days before any expected delay; force majeure relief applies only if notice is given."
+    },
+    {
+      "customer": "Samsung Display Tooling",
+      "late_delivery_penalty_pct_per_week": 0.5,
+      "penalty_cap_pct": 5,
+      "notification_required_days": 3,
+      "clause": "Late delivery incurs 0.5% of order value per week, capped at 5%. Helix must notify Samsung Display Tooling at least 3 days before any expected delay; force majeure relief applies only if notice is given."
+    },
+    {
+      "customer": "Bosch Rexroth Assembly",
+      "late_delivery_penalty_pct_per_week": 0.5,
+      "penalty_cap_pct": 5,
+      "notification_required_days": 3,
+      "clause": "Late delivery incurs 0.5% of order value per week, capped at 5%. Helix must notify Bosch Rexroth Assembly at least 3 days before any expected delay; force majeure relief applies only if notice is given."
+    },
+    {
+      "customer": "Walmart DC Dallas",
+      "late_delivery_penalty_pct_per_week": 0.5,
+      "penalty_cap_pct": 5,
+      "notification_required_days": 3,
+      "clause": "Late delivery incurs 0.5% of order value per week, capped at 5%. Helix must notify Walmart DC Dallas at least 3 days before any expected delay; force majeure relief applies only if notice is given."
+    },
+    {
+      "customer": "Maersk Warehousing Rotterdam",
+      "late_delivery_penalty_pct_per_week": 0.5,
+      "penalty_cap_pct": 5,
+      "notification_required_days": 3,
+      "clause": "Late delivery incurs 0.5% of order value per week, capped at 5%. Helix must notify Maersk Warehousing Rotterdam at least 3 days before any expected delay; force majeure relief applies only if notice is given."
+    },
+    {
+      "customer": "Panasonic Energy Kobe",
+      "late_delivery_penalty_pct_per_week": 0.5,
+      "penalty_cap_pct": 5,
+      "notification_required_days": 3,
+      "clause": "Late delivery incurs 0.5% of order value per week, capped at 5%. Helix must notify Panasonic Energy Kobe at least 3 days before any expected delay; force majeure relief applies only if notice is given."
+    },
+    {
+      "customer": "Foxconn Line 12",
+      "late_delivery_penalty_pct_per_week": 2.0,
+      "penalty_cap_pct": 10,
+      "notification_required_days": 7,
+      "clause": "Late delivery incurs 2.0% of order value per week, capped at 10%. Helix must notify Foxconn Line 12 at least 7 days before any expected delay; force majeure relief applies only if notice is given."
+    },
+    {
+      "customer": "Unilever Lipton Plant",
+      "late_delivery_penalty_pct_per_week": 0.5,
+      "penalty_cap_pct": 5,
+      "notification_required_days": 3,
+      "clause": "Late delivery incurs 0.5% of order value per week, capped at 5%. Helix must notify Unilever Lipton Plant at least 3 days before any expected delay; force majeure relief applies only if notice is given."
+    },
+    {
+      "customer": "Siemens Healthineers Erlangen",
+      "late_delivery_penalty_pct_per_week": 2.0,
+      "penalty_cap_pct": 10,
+      "notification_required_days": 7,
+      "clause": "Late delivery incurs 2.0% of order value per week, capped at 10%. Helix must notify Siemens Healthineers Erlangen at least 7 days before any expected delay; force majeure relief applies only if notice is given."
+    },
+    {
+      "customer": "Ocado Robotics Hub",
+      "late_delivery_penalty_pct_per_week": 2.0,
+      "penalty_cap_pct": 10,
+      "notification_required_days": 7,
+      "clause": "Late delivery incurs 2.0% of order value per week, capped at 10%. Helix must notify Ocado Robotics Hub at least 7 days before any expected delay; force majeure relief applies only if notice is given."
+    },
+    {
+      "customer": "Tata Motors Pune",
+      "late_delivery_penalty_pct_per_week": 0.5,
+      "penalty_cap_pct": 5,
+      "notification_required_days": 3,
+      "clause": "Late delivery incurs 0.5% of order value per week, capped at 5%. Helix must notify Tata Motors Pune at least 3 days before any expected delay; force majeure relief applies only if notice is given."
+    }
+  ]
+}

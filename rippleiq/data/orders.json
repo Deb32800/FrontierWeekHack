@@ -1,0 +1,362 @@
+[
+  {
+    "order_id": "SO-2410",
+    "customer": "Walmart DC Dallas",
+    "product_id": "HX-A300",
+    "qty": 6,
+    "unit_price_usd": 52000,
+    "value_usd": 312000,
+    "due_in_days": 3,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2420",
+    "customer": "Bosch Rexroth Assembly",
+    "product_id": "HX-VK",
+    "qty": 10,
+    "unit_price_usd": 9500,
+    "value_usd": 95000,
+    "due_in_days": 11,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2435",
+    "customer": "Walmart DC Dallas",
+    "product_id": "HX-GP",
+    "qty": 8,
+    "unit_price_usd": 4200,
+    "value_usd": 33600,
+    "due_in_days": 11,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2427",
+    "customer": "Walmart DC Dallas",
+    "product_id": "HX-VK",
+    "qty": 12,
+    "unit_price_usd": 9500,
+    "value_usd": 114000,
+    "due_in_days": 12,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2422",
+    "customer": "Walmart DC Dallas",
+    "product_id": "HX-VK",
+    "qty": 20,
+    "unit_price_usd": 9500,
+    "value_usd": 190000,
+    "due_in_days": 13,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2405",
+    "customer": "Toyota Tsusho Logistics",
+    "product_id": "HX-C7",
+    "qty": 1,
+    "unit_price_usd": 38000,
+    "value_usd": 38000,
+    "due_in_days": 14,
+    "priority": "strategic"
+  },
+  {
+    "order_id": "SO-2414",
+    "customer": "Panasonic Energy Kobe",
+    "product_id": "HX-A300",
+    "qty": 1,
+    "unit_price_usd": 52000,
+    "value_usd": 52000,
+    "due_in_days": 15,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2423",
+    "customer": "Bosch Rexroth Assembly",
+    "product_id": "HX-VK",
+    "qty": 20,
+    "unit_price_usd": 9500,
+    "value_usd": 190000,
+    "due_in_days": 15,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2413",
+    "customer": "Maersk Warehousing Rotterdam",
+    "product_id": "HX-A300",
+    "qty": 2,
+    "unit_price_usd": 52000,
+    "value_usd": 104000,
+    "due_in_days": 16,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2402",
+    "customer": "Bosch Rexroth Assembly",
+    "product_id": "HX-C7",
+    "qty": 2,
+    "unit_price_usd": 38000,
+    "value_usd": 76000,
+    "due_in_days": 20,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2412",
+    "customer": "Walmart DC Dallas",
+    "product_id": "HX-A300",
+    "qty": 3,
+    "unit_price_usd": 52000,
+    "value_usd": 156000,
+    "due_in_days": 22,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2425",
+    "customer": "Maersk Warehousing Rotterdam",
+    "product_id": "HX-VK",
+    "qty": 12,
+    "unit_price_usd": 9500,
+    "value_usd": 114000,
+    "due_in_days": 23,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2428",
+    "customer": "Ocado Robotics Hub",
+    "product_id": "HX-GP",
+    "qty": 10,
+    "unit_price_usd": 4200,
+    "value_usd": 42000,
+    "due_in_days": 24,
+    "priority": "strategic"
+  },
+  {
+    "order_id": "SO-2426",
+    "customer": "Maersk Warehousing Rotterdam",
+    "product_id": "HX-VK",
+    "qty": 5,
+    "unit_price_usd": 9500,
+    "value_usd": 47500,
+    "due_in_days": 29,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2421",
+    "customer": "Ocado Robotics Hub",
+    "product_id": "HX-VK",
+    "qty": 2,
+    "unit_price_usd": 9500,
+    "value_usd": 19000,
+    "due_in_days": 32,
+    "priority": "strategic"
+  },
+  {
+    "order_id": "SO-2433",
+    "customer": "Toyota Tsusho Logistics",
+    "product_id": "HX-GP",
+    "qty": 20,
+    "unit_price_usd": 4200,
+    "value_usd": 84000,
+    "due_in_days": 32,
+    "priority": "strategic"
+  },
+  {
+    "order_id": "SO-2429",
+    "customer": "Tata Motors Pune",
+    "product_id": "HX-GP",
+    "qty": 10,
+    "unit_price_usd": 4200,
+    "value_usd": 42000,
+    "due_in_days": 34,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2415",
+    "customer": "Maersk Warehousing Rotterdam",
+    "product_id": "HX-A300",
+    "qty": 3,
+    "unit_price_usd": 52000,
+    "value_usd": 156000,
+    "due_in_days": 36,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2401",
+    "customer": "Toyota Tsusho Logistics",
+    "product_id": "HX-C7",
+    "qty": 1,
+    "unit_price_usd": 38000,
+    "value_usd": 38000,
+    "due_in_days": 38,
+    "priority": "strategic"
+  },
+  {
+    "order_id": "SO-2418",
+    "customer": "Unilever Lipton Plant",
+    "product_id": "HX-A300",
+    "qty": 1,
+    "unit_price_usd": 52000,
+    "value_usd": 52000,
+    "due_in_days": 40,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2434",
+    "customer": "Toyota Tsusho Logistics",
+    "product_id": "HX-GP",
+    "qty": 20,
+    "unit_price_usd": 4200,
+    "value_usd": 84000,
+    "due_in_days": 43,
+    "priority": "strategic"
+  },
+  {
+    "order_id": "SO-2436",
+    "customer": "Siemens Healthineers Erlangen",
+    "product_id": "HX-GP",
+    "qty": 4,
+    "unit_price_usd": 4200,
+    "value_usd": 16800,
+    "due_in_days": 43,
+    "priority": "strategic"
+  },
+  {
+    "order_id": "SO-2432",
+    "customer": "Ocado Robotics Hub",
+    "product_id": "HX-GP",
+    "qty": 4,
+    "unit_price_usd": 4200,
+    "value_usd": 16800,
+    "due_in_days": 44,
+    "priority": "strategic"
+  },
+  {
+    "order_id": "SO-2419",
+    "customer": "Ocado Robotics Hub",
+    "product_id": "HX-VK",
+    "qty": 20,
+    "unit_price_usd": 9500,
+    "value_usd": 190000,
+    "due_in_days": 49,
+    "priority": "strategic"
+  },
+  {
+    "order_id": "SO-2417",
+    "customer": "Nordic Pharma Packaging",
+    "product_id": "HX-A300",
+    "qty": 6,
+    "unit_price_usd": 52000,
+    "value_usd": 312000,
+    "due_in_days": 51,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2430",
+    "customer": "Foxconn Line 12",
+    "product_id": "HX-GP",
+    "qty": 4,
+    "unit_price_usd": 4200,
+    "value_usd": 16800,
+    "due_in_days": 51,
+    "priority": "strategic"
+  },
+  {
+    "order_id": "SO-2404",
+    "customer": "Siemens Healthineers Erlangen",
+    "product_id": "HX-C7",
+    "qty": 1,
+    "unit_price_usd": 38000,
+    "value_usd": 38000,
+    "due_in_days": 57,
+    "priority": "strategic"
+  },
+  {
+    "order_id": "SO-2411",
+    "customer": "Tata Motors Pune",
+    "product_id": "HX-A300",
+    "qty": 2,
+    "unit_price_usd": 52000,
+    "value_usd": 104000,
+    "due_in_days": 57,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2409",
+    "customer": "Bosch Rexroth Assembly",
+    "product_id": "HX-C7",
+    "qty": 4,
+    "unit_price_usd": 38000,
+    "value_usd": 152000,
+    "due_in_days": 60,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2416",
+    "customer": "Tata Motors Pune",
+    "product_id": "HX-A300",
+    "qty": 1,
+    "unit_price_usd": 52000,
+    "value_usd": 52000,
+    "due_in_days": 61,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2424",
+    "customer": "Walmart DC Dallas",
+    "product_id": "HX-VK",
+    "qty": 8,
+    "unit_price_usd": 9500,
+    "value_usd": 76000,
+    "due_in_days": 61,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2406",
+    "customer": "Bosch Rexroth Assembly",
+    "product_id": "HX-C7",
+    "qty": 2,
+    "unit_price_usd": 38000,
+    "value_usd": 76000,
+    "due_in_days": 67,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2403",
+    "customer": "Ocado Robotics Hub",
+    "product_id": "HX-C7",
+    "qty": 1,
+    "unit_price_usd": 38000,
+    "value_usd": 38000,
+    "due_in_days": 72,
+    "priority": "strategic"
+  },
+  {
+    "order_id": "SO-2408",
+    "customer": "Tata Motors Pune",
+    "product_id": "HX-C7",
+    "qty": 2,
+    "unit_price_usd": 38000,
+    "value_usd": 76000,
+    "due_in_days": 72,
+    "priority": "standard"
+  },
+  {
+    "order_id": "SO-2407",
+    "customer": "Toyota Tsusho Logistics",
+    "product_id": "HX-C7",
+    "qty": 6,
+    "unit_price_usd": 38000,
+    "value_usd": 228000,
+    "due_in_days": 74,
+    "priority": "strategic"
+  },
+  {
+    "order_id": "SO-2431",
+    "customer": "Ocado Robotics Hub",
+    "product_id": "HX-GP",
+    "qty": 5,
+    "unit_price_usd": 4200,
+    "value_usd": 21000,
+    "due_in_days": 74,
+    "priority": "strategic"
+  }
+]

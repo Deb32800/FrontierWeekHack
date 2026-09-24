@@ -1,0 +1,11 @@
+{
+  "name": "Helix Robotics",
+  "hq": {
+    "city": "Osaka",
+    "country": "Japan",
+    "lat": 34.6937,
+    "lon": 135.5023
+  },
+  "industry": "Collaborative robots and autonomous mobile robots",
+  "approval_limit_usd": 25000
+}

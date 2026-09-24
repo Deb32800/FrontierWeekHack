@@ -1,0 +1,202 @@
+[
+  {
+    "supplier_id": "S01",
+    "name": "Formosa Semicon",
+    "city": "Hsinchu",
+    "country": "Taiwan",
+    "lat": 24.8066,
+    "lon": 120.9686,
+    "transit_days_to_osaka": 5,
+    "reliability_tier": "A"
+  },
+  {
+    "supplier_id": "S02",
+    "name": "Taichung Precision Gear",
+    "city": "Taichung",
+    "country": "Taiwan",
+    "lat": 24.1477,
+    "lon": 120.6736,
+    "transit_days_to_osaka": 5,
+    "reliability_tier": "A"
+  },
+  {
+    "supplier_id": "S03",
+    "name": "Yilan Opto",
+    "city": "Yilan",
+    "country": "Taiwan",
+    "lat": 24.757,
+    "lon": 121.753,
+    "transit_days_to_osaka": 5,
+    "reliability_tier": "B"
+  },
+  {
+    "supplier_id": "S04",
+    "name": "Kansai Servo Works",
+    "city": "Higashiosaka",
+    "country": "Japan",
+    "lat": 34.6795,
+    "lon": 135.6008,
+    "transit_days_to_osaka": 1,
+    "reliability_tier": "A"
+  },
+  {
+    "supplier_id": "S05",
+    "name": "Sendai Capacitor",
+    "city": "Sendai",
+    "country": "Japan",
+    "lat": 38.2682,
+    "lon": 140.8694,
+    "transit_days_to_osaka": 2,
+    "reliability_tier": "B"
+  },
+  {
+    "supplier_id": "S06",
+    "name": "Kumamoto Sensor Devices",
+    "city": "Kumamoto",
+    "country": "Japan",
+    "lat": 32.8031,
+    "lon": 130.7079,
+    "transit_days_to_osaka": 2,
+    "reliability_tier": "A"
+  },
+  {
+    "supplier_id": "S07",
+    "name": "Busan Energy Cells",
+    "city": "Busan",
+    "country": "South Korea",
+    "lat": 35.1796,
+    "lon": 129.0756,
+    "transit_days_to_osaka": 3,
+    "reliability_tier": "A"
+  },
+  {
+    "supplier_id": "S08",
+    "name": "Shenzhen Harness Co",
+    "city": "Shenzhen",
+    "country": "China",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "transit_days_to_osaka": 6,
+    "reliability_tier": "B"
+  },
+  {
+    "supplier_id": "S09",
+    "name": "Suzhou Castings",
+    "city": "Suzhou",
+    "country": "China",
+    "lat": 31.299,
+    "lon": 120.5853,
+    "transit_days_to_osaka": 5,
+    "reliability_tier": "B"
+  },
+  {
+    "supplier_id": "S10",
+    "name": "Chengdu Magnetics",
+    "city": "Chengdu",
+    "country": "China",
+    "lat": 30.5728,
+    "lon": 104.0668,
+    "transit_days_to_osaka": 8,
+    "reliability_tier": "A"
+  },
+  {
+    "supplier_id": "S11",
+    "name": "Penang Microsystems",
+    "city": "Penang",
+    "country": "Malaysia",
+    "lat": 5.4164,
+    "lon": 100.3327,
+    "transit_days_to_osaka": 9,
+    "reliability_tier": "A"
+  },
+  {
+    "supplier_id": "S12",
+    "name": "Ayutthaya Motor Tech",
+    "city": "Ayutthaya",
+    "country": "Thailand",
+    "lat": 14.3532,
+    "lon": 100.5689,
+    "transit_days_to_osaka": 9,
+    "reliability_tier": "B"
+  },
+  {
+    "supplier_id": "S13",
+    "name": "Hanoi PCB Assembly",
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "lat": 21.0285,
+    "lon": 105.8542,
+    "transit_days_to_osaka": 7,
+    "reliability_tier": "B"
+  },
+  {
+    "supplier_id": "S14",
+    "name": "Stuttgart Drive Systems",
+    "city": "Stuttgart",
+    "country": "Germany",
+    "lat": 48.7758,
+    "lon": 9.1829,
+    "transit_days_to_osaka": 21,
+    "reliability_tier": "A"
+  },
+  {
+    "supplier_id": "S15",
+    "name": "Monterrey Metals",
+    "city": "Monterrey",
+    "country": "Mexico",
+    "lat": 25.6866,
+    "lon": -100.3161,
+    "transit_days_to_osaka": 24,
+    "reliability_tier": "B"
+  },
+  {
+    "supplier_id": "S16",
+    "name": "Austin Lidar Labs",
+    "city": "Austin",
+    "country": "USA",
+    "lat": 30.2672,
+    "lon": -97.7431,
+    "transit_days_to_osaka": 14,
+    "reliability_tier": "A"
+  },
+  {
+    "supplier_id": "S17",
+    "name": "Kochi Rubber Works",
+    "city": "Kochi",
+    "country": "India",
+    "lat": 9.9312,
+    "lon": 76.2673,
+    "transit_days_to_osaka": 12,
+    "reliability_tier": "B"
+  },
+  {
+    "supplier_id": "S18",
+    "name": "Banten Steel Sheet",
+    "city": "Cilegon",
+    "country": "Indonesia",
+    "lat": -6.0025,
+    "lon": 106.0111,
+    "transit_days_to_osaka": 8,
+    "reliability_tier": "B"
+  },
+  {
+    "supplier_id": "S19",
+    "name": "Kaohsiung Cell Pack",
+    "city": "Kaohsiung",
+    "country": "Taiwan",
+    "lat": 22.6273,
+    "lon": 120.3014,
+    "transit_days_to_osaka": 5,
+    "reliability_tier": "B"
+  },
+  {
+    "supplier_id": "S20",
+    "name": "Chennai Polymer Parts",
+    "city": "Chennai",
+    "country": "India",
+    "lat": 13.0827,
+    "lon": 80.2707,
+    "transit_days_to_osaka": 12,
+    "reliability_tier": "B"
+  }
+]
